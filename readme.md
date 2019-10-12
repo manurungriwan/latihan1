@@ -59,50 +59,9 @@ TUTORIAL MEMBUAT  REPOSITORY SERVER:
 
 
 
-
-
-
-
 Jika berhasil akan muncul gambar dibawah,dan file README.md sudah berada di repository latihan1 di github.com yang telah dibuat:  
 
-
-
-TUTORIAL MEMBUAT FILE README.MD
-1.Instalasi GIT
-•	Download GIT,buka website resminya GIT (git-scm.com).
-•	Lalu unduh GIT sesuai dengan arsitektur komputer kita.Kalau menggunakan 64 bit,download yang 64 bit.Begitupun yang menggunakan 32 bit.
- 
- 2.setelah didownload dan diinstal, maka langkah selanjutnya buka applikasi Git Bash yang tadi sudah di instal:  
-3. maka Git Bash akan terbuka,dan selanjutnya ketik perintah git config –globa user.name(nama user yg telah di daftarkn di git hub sebelumnya):
- 
-4. lalu selanjutnya ketik perintah mkdir latihan1 dan cd latihan1  
-5. selanjutnya ketik perintah  git init
- 
-
-6. Berikutnya untuk membuka file README.md di isikan dengan teks latihan1 dengan mengetik perintah $echo”#latihan1”README.md  
-7. Apabila anda telah berhasil  menjalankan perintahnya maka akan muncul file READMI.md di dalam folder latihan1
- 
-8.selanjutnya ketik git add READMI.md di git bush  
-9.selanjutnya ketik perintah git commit –m”file yang akan anda lakukan”  saya buat isinya file pertama seperti dibawah:  
-Untuk selanjutnya disini kita akan membuat repository lokal:
-TUTORIAL MEMBUAT  REPOSITORY SERVER:
-1.ketik perintah  git remot add origin(diisi url yg kita kunjungi):
- 
-
- 
-
-2.selanjutnya untuk menaruh file README.md yang tadi sudah dibuat dengan cara mengetik perintah git push-u origin master:
- 
-
-
-
-
-
-
-
-
-
-Jika berhasil akan muncul gambar dibawah,dan file README.md sudah berada di repository latihan1 di github.com yang telah dibuat:  
+![image](https://user-images.githubusercontent.com/56192368/66698703-674bfd80-ed0a-11e9-8eaf-3d6d73ce9820.png)
 
 
 
